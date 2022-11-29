@@ -4,8 +4,9 @@
 </div>  
   
 
-# <div align="center">Developer Full Stack / Angular - NodeJS </div>  
-  
+# <div align="center">Developer Full Stack / Angular - NodeJS</div>  
+
+### <div align="center">🚧 My portfolio (thomascauquil.fr) redirects you here because i am updating it for 2023 🚧</div><br />
 
 - 🌱 I’m currently learning ThreeJS / Blender  
   
