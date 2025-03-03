@@ -11,14 +11,6 @@
 
 # <div align="center">Full Stack Developer and Reverse Engineering Enthusiast</div>
 
-### <div align="center">🚧 My portfolio (thomascauquil.fr) redirects you here because i am updating it for 2024 🚧</div><br />
-
--   🌱 I’m currently learning Rust / C (I want to improve the performance of my applications)
-
--   💻 All of my projects are available at [thomasync.dev](https://thomasync.dev) or [thomascauquil.fr](https://thomascauquil.fr)
-
--   ✉️ How to reach me [git@thomasync.dev](mailto:git@thomasync.dev)
-
 <br/>
 
 <div align="center">
